@@ -1,0 +1,21 @@
+{
+  "name": "ajo-discord-bot",
+  "version": "1.0.0",
+  "description": "Bot die enkel op de AJO Discord gebruikt mag worden.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "keywords": [
+    "bot",
+    "nederlands",
+    "discord",
+    "aji"
+  ],
+  "author": "Mats - PandaOpDeRoltrap",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
